@@ -35,6 +35,7 @@ Dictionary:
 | Оригінал | Переклад |
 | ------------------ | ---------- |
 | API reference | API довідник |
+| application | додаток |
 | array | массив |
 | arrow function | стрілкова функція |
 | attribute | атрибут |
@@ -54,6 +55,7 @@ Dictionary:
 | crash | збій |
 | custom hooks | хуки користувача |
 | debugging | налагодження |
+| (by) default | за замовчуванням |
 | development | розробка |
 | development mode | режим розробки |
 | developer tools | інструменти розробки |

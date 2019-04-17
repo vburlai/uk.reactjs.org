@@ -31,6 +31,7 @@ Files that need translation (sorted by size):
 
 
 Dictionary:
+
 | Оригінал | Переклад |
 | ------------------ | ---------- |
 | API reference | API довідник |

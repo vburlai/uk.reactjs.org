@@ -4,15 +4,15 @@ Files that need translation (sorted by size):
 
  | size | file |
  | ---- | ---- |
- | 36K | implementation-notes.md |
+ | 36K | implementation-notes.md _(low priority)_ |
  | 23K | accessibility.md |
  | 21K | optimizing-performance.md |
- | 19K | design-principles.md |
+ | 19K | design-principles.md _(low priority)_ |
  | 17K | integrating-with-other-libraries.md |
  | 13K | addons-animation.md |
  | 13K | static-type-checking.md |
- | 12K | how-to-contribute.md |
- | 12K | codebase-overview.md |
+ | 12K | how-to-contribute.md _(low priority)_ |
+ | 12K | codebase-overview.md _(low priority)_ |
  | 11K | render-props.md |
  | 8.1K | reconciliation.md |
  | 7.8K | strict-mode.md |

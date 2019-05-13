@@ -7,7 +7,6 @@ Files that need translation (sorted by size):
  | 36K | implementation-notes.md _(low priority)_ |
  | 19K | design-principles.md _(low priority)_ |
  | 17K | integrating-with-other-libraries.md |
- | 13K | static-type-checking.md |
  | 12K | how-to-contribute.md _(low priority)_ |
  | 12K | codebase-overview.md _(low priority)_ |
  | 8.1K | reconciliation.md |
